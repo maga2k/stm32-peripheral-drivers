@@ -247,5 +247,4 @@ All 22 tests pass as of this writing.
 
 ## License
 
-Choose whatever fits your use (e.g. MIT, if you want the drivers freely
-reusable across personal and commercial projects).
+MIT license
